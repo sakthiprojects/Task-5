@@ -12,4 +12,8 @@ Perform a Text Classification on consumer complaint dataset
 6. Prediction
    
 ## Screenshot
+![feature extraction](https://github.com/user-attachments/assets/87ac2c77-e338-4267-9d99-bd7f1ba46524)
 ![models](https://github.com/user-attachments/assets/a544c58a-0785-41c2-ae53-4f9054fbc3f8)
+![visualization_1](https://github.com/user-attachments/assets/6190a049-bb94-4374-8234-bdc253a27a63)
+![visualization_2](https://github.com/user-attachments/assets/5f7e448a-916e-43aa-a763-b20181e6d6f6)
+![visualization_3](https://github.com/user-attachments/assets/dd88e598-3d71-4946-9338-67b206f50170)
